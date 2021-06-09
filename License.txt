@@ -1,0 +1,12 @@
+Este software ha sido elaborado por;
+Wester Medina 2018-1742
+Rachelli Matias 2019-0298
+Rody Reyes 2019-0644
+
+
+
+               AVISO 
+Para poder utilizar este software es 
+necesario ponerse en contacto con el suplidor del servidor
+para que pueda ser habilitado la base de datos para este software,
+de lo contrario, no podra ser utilizado
